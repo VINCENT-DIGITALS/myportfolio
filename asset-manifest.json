@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.596decd0.css",
+    "main.js": "/myportfolio/static/js/main.c010249f.js",
+    "static/js/453.83234151.chunk.js": "/myportfolio/static/js/453.83234151.chunk.js",
+    "static/media/MYPROFILE.png": "/myportfolio/static/media/MYPROFILE.340f819720d6e3bb75a5.png",
+    "static/media/WUPLOGO.png": "/myportfolio/static/media/WUPLOGO.67ba6e82fa865c0e4740.png",
+    "static/media/MACSLOGO.png": "/myportfolio/static/media/MACSLOGO.666e3e63929a1593fd99.png",
+    "static/media/CLSU_logo.png": "/myportfolio/static/media/CLSU_logo.fbdbdfd79ce7cb4078f9.png",
+    "static/media/MANHSLOGO.png": "/myportfolio/static/media/MANHSLOGO.42917c25e63c94e68f07.png",
+    "static/media/CV_Macayanan.pdf": "/myportfolio/static/media/CV_Macayanan.2f921340dfcc4e62e892.pdf",
+    "index.html": "/myportfolio/index.html",
+    "main.596decd0.css.map": "/myportfolio/static/css/main.596decd0.css.map",
+    "main.c010249f.js.map": "/myportfolio/static/js/main.c010249f.js.map",
+    "453.83234151.chunk.js.map": "/myportfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596decd0.css",
+    "static/js/main.c010249f.js"
+  ]
+}
